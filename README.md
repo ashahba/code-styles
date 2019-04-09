@@ -1,5 +1,5 @@
 ## **Coding style**
-## Handy script to check styles for mixed shell and python scripts
+### Handy script to check styles for mixed shell and python scripts
 
 ### **General style guides:**
 - **_All text files:_** We try not to have multiple consecutive blank lines on any given code file unless it's
