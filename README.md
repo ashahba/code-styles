@@ -15,4 +15,4 @@ format `Python` scripts based on [pep8](https://www.python.org/dev/peps/pep-0008
 
 - We also use `flake8` to test for correctness of `Python` code styles.
 
-To check for rules above please run "[check_code_styles.sh](file://check_code_styles.sh)"
+To check for rules above please run "[check_code_styles.sh](./check_code_styles.sh)"
